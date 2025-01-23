@@ -15,5 +15,5 @@
    -Custom color given to specified record
    -Show/Hide table while choosing row value from first table
 * Map
-* Searchble Drop-Down filter
+* Searchable Drop-Down filter(date filter)
   
